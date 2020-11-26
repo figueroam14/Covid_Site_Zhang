@@ -1,0 +1,22 @@
+<!-- Add Bootstrap CSS to webpage -->
+<!-- Look into real time tracking for stocks
+     and important Covid related products or link                             -->
+<!-- Link to Scholars Academy webpage -->
+<!-- Work on powerpoint for next presentation and   
+    include screenshots of current page   -->
+<!-- Implement real time location tracking or links 
+     to nearest testing center  -->
+<!-- Implement real time graphs with API's if   
+     possible  -->
+
+Layout: 
+    Title: Covid - 19 
+    Landing Page: Covid 19 
+    description on Covid 19....
+
+
+    Cards:
+        How does it spread?
+        How to stay safe?
+        Nearest Testing center?
+        What are the symptoms ?
